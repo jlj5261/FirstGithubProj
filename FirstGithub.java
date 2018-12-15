@@ -1,6 +1,6 @@
 
 public class FirstGithub {
 	public static void main(String[] args) {
-		System.out.println("欢迎光临！");
+		System.out.println("再次，欢迎光临！");
 	}
 }
